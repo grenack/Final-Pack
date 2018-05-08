@@ -8,8 +8,8 @@
 ### Week 1 to 4
 
 - [hello-World](https://github.com/grenack/hello-world) - I was Happy to create my first repository.
-- [git-init] (https://github.com/grenack/git-init) - I have learned how to git push on github and create repository.
-- [grenack.git.io] (https://github.com/grenack?tab=repositories) - I Learned how to use Markdown.
+- [git-init](https://github.com/grenack/git-init) - I have learned how to git push on github and create repository.
+- [grenack.git.io](https://github.com/grenack?tab=repositories) - I Learned how to use Markdown.
 The following weeks were basic commands that I learned through the first couple weeks of the course such as updating, upgrading, partitions, remove files, and changing directories.
 - [Week-2](https://github.com/grenack/Week-2)
 - [Week-3](https://github.com/grenack/Week-3)
@@ -26,7 +26,8 @@ For Week 5 and 6, - I applied some dmesg and others command from the book.
 
 ### Week 9 to 14
 - [Week-9](https://github.com/grenack/CHP9) - Spring Break, No Assignment
-- [Week-10](https://github.com/grenack/CHP9-10) - I uploaded my Week-9 and Week-10 into Week-10. I did some Ifconfig and SSh commandline- [Week-12] (https://github.com/grenack/Week-12). - In Week-12 it was my first report on our project Minecraft with my team CodeBlockers. I also wrote a report on "How does the internet work". 
+- [Week-10](https://github.com/grenack/CHP9-10) - I uploaded my Week-9 and Week-10 into Week-10. I did some Ifconfig and SSh commandline-
+- [Week-12] (https://github.com/grenack/Week-12). - In Week-12 it was my first report on our project Minecraft with my team CodeBlockers. I also wrote a report on "How does the internet work". 
 - [Week-13](https://github.com/grenack/Week13). - I learned some command line.
 - [Week-14](https://github.com/grenack/Week14), - I actually started working on my project and added my participation to it and also document all the research and update we made to our project.
 
