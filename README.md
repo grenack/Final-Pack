@@ -16,7 +16,7 @@ The following weeks were basic commands that I learned through the first couple 
 - [Week-4](https://github.com/grenack/Week-4)
 
 ### Week 5 to 8  
-- [USB-Bootable] (https://github.com/grenack/USB-Bootable) - I created a lubuntu bootable , because it was the most reliable for me.
+- [USB-Bootable](https://github.com/grenack/USB-Bootable) - I created a lubuntu bootable , because it was the most reliable for me.
 For Week 5 and 6, - I applied some dmesg and others command from the book.
 - [Week-5](https://github.com/grenack/Week-5)
 - [Week-6](https://github.com/grenack/Week-6)
