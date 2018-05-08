@@ -27,7 +27,7 @@ For Week 5 and 6, - I applied some dmesg and others command from the book.
 ### Week 9 to 14
 - [Week-9](https://github.com/grenack/CHP9) - Spring Break, No Assignment
 - [Week-10](https://github.com/grenack/CHP9-10) - I uploaded my Week-9 and Week-10 into Week-10. I did some Ifconfig and SSh commandline-
-- [Week-12] (https://github.com/grenack/Week-12). - In Week-12 it was my first report on our project Minecraft with my team CodeBlockers. I also wrote a report on "How does the internet work". 
+- [Week-12](https://github.com/grenack/Week-12). - In Week-12 it was my first report on our project Minecraft with my team CodeBlockers. I also wrote a report on "How does the internet work". 
 - [Week-13](https://github.com/grenack/Week13). - I learned some command line.
 - [Week-14](https://github.com/grenack/Week14), - I actually started working on my project and added my participation to it and also document all the research and update we made to our project.
 
